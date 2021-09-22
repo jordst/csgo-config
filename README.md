@@ -5,6 +5,6 @@
 ## Features
 
 * Left hand knife
-* Auto changing crosshair on WASD
+* Auto changing crosshair colour on WASD
 * General equipment binds
 * Game settings (HUD, Crosshair, Stats)
