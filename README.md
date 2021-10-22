@@ -14,3 +14,9 @@
 
 * Config file to remove HUD, assists, etc for frag recording.
 * Binds for demoui, slow and normal speed
+
+### Extra Files
+* Change to a bigger crosshair on the fly
+* Increase bob on viewmodel
+* Change to white crosshair
+
