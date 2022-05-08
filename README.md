@@ -3,7 +3,7 @@
 ## Autoexec Features
 
 * Binds, HUD, network, movement
-* Alises to change crosshair, viewmodel on the fly
+* Aliases to change crosshair, viewmodel on the fly
 
 ## Recording Frags
 
