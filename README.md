@@ -1,22 +1,14 @@
-# CSGO Configuration File
-
-![csgo](img.jpg)
+# CSGO Configuration Files
 
 ## Autoexec Features
 
-* Left hand knife
-* Auto changing crosshair colour on WASD
-* General equipment binds
-* Game settings (HUD, Crosshair, Stats)
-* Net_graph on TAB
+* Binds, HUD, network, movement
+* Alises to change crosshair, viewmodel on the fly
 
 ## Recording Frags
 
-* Config file to remove HUD, assists, etc for frag recording.
-* Binds for demoui, slow and normal speed
+* Config file "rec" to remove HUD, assists, etc for frag recording.
+* Config file "hlae" with binds to record frags at 900fps with motion blur
 
-### Extra Files
-* Change to a bigger crosshair on the fly
-* Increase bob on viewmodel
-* Change to white crosshair
-
+## Practice
+*  Config file "priv" to show grenade lines, max money, bot kick on private server
