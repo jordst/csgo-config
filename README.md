@@ -1,4 +1,11 @@
-# CSGO Configuration Files
+# Counter-Strike Configuration Files
+
+![counter-strike 1.6 lambda logo](image.jpg)
+
+## Games
+
+* Autoexec configuration files for CSGO (RIP), cs2 & 1.6.
+* Both competitive and kreedz settings.
 
 ## Autoexec Features
 
